@@ -1,0 +1,26 @@
+﻿General Description: This dataset contains data from puertorican patients who have been suspected of having Hepatitis C and have taken an Ab o RNA test to confirm it. ,,
+,,
+,,
+,,
+Variable Name,Description,Data type
+Hepatitis C,Hepatitis C diagnosis,Binary (0-1)
+gender_M,Patient of Male Gender,Binary (0-1)
+age,Patient age ,Float
+lab_zip,Last 3 digits of the zipcode of the lab,Float
+person_zip,Last 3 digits of the zipcode of the patient,Float
+13457-7_LDL,Cholesterol in LDL [Mass/volume] in Serum or Plasma by calculation,Float
+14957-5_Albumin,Microalbumin [Mass/volume] in Urine,Float
+1751-7_Albumin,Albumin [Mass/volume] in Serum or Plasma,Float
+1975-2_Bilirubin,Bilirubin.total [Mass/volume] in Serum or Plasma,Float
+2160-0_Creatinine (blood),Creatinine [Mass/volume] in Serum or Plasma,Float
+2345-7_Fasting glucose ,Glucose [Mass/volume] in Serum or Plasma,Float
+3016-3_TSH,Thyrotropin [Units/volume] in Serum or Plasma,Float
+3024-7_Free T4,Thyroxine (T4) free [Mass/volume] in Serum or Plasma,Float
+3026-2_T4,Thyroxine (T4) [Mass/volume] in Serum or Plasma,Float
+3053-6_T3,Triiodothyronine (T3) [Mass/volume] in Serum or Plasma,Float
+4548-4_A1c,Patient age group__85+,Float
+6690-2_WBC,Leukocytes [#/volume] in Blood by Automated count,Float
+6768-6_ALP,Alkaline phosphatase [Enzymatic activity/volume] in Serum or Plasma ,Float
+718-7_Hgb,Hemoglobin [Mass/volume] in Blood,Float
+789-8_RBC,Erythrocytes [#/volume] in Blood by Automated count,Float
+88294-4_egfr-2,"Glomerular filtration rate/1.73 sq M.predicted among non-blacks [Volume Rate/Area] in Serum, Plasma or Blood by Creatinine-based formula (CKD-EPI)",Float
